@@ -37,8 +37,6 @@ library(parallel)
 
 load("W:/C6_Berglund/data/procdata/reduce-emulation/cr_data_main.Rda")
 
-#"scripts/explore_ipweights.R" - is where have explore IP weight problems
-
 # FUNCTIONS --------------------------------------------------------------------
 
 # 1. Create analyzable baseline data frames (restricted to confounders of interest)
